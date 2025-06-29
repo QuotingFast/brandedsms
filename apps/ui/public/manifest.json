@@ -1,0 +1,9 @@
+{
+  "short_name": "Quoting Fast",
+  "name": "Quoting Fast Insurance Platform",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
